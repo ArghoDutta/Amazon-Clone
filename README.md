@@ -1,1 +1,1 @@
-My First Clone Using HTML and CSS
+This is a basic project of amazon clone using html and css only..
